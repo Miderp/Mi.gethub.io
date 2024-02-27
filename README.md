@@ -1,1 +1,1 @@
-# https://Mi.gethub.io/Mi.gethub.io/
+# https://Mi.github.io/Mi.github.io/
